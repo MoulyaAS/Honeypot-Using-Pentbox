@@ -18,4 +18,4 @@ client side
 			type ipaddress:port_number
 	
 
-on server terminal, you can see it happen
+on server terminal, you can see the details of the attacker computer
